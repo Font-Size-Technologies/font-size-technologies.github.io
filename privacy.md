@@ -2,6 +2,7 @@
 layout: default
 title: Privacy Policy
 ---
+<section class="section">
 <div class="container">
 
 # Privacy Policy
@@ -18,6 +19,7 @@ Your privacy policy goes here.
 
 ## Contact
 
-<div class="container">
+</div>
+</section>
 ...
 
