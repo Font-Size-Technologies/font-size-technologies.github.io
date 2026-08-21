@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: Privacy Policy
 ---
-<section class="section">
-<div class="container">
 
 # Privacy Policy
 
@@ -11,15 +9,13 @@ Your privacy policy goes here.
 
 ## Information We Collect
 
-...
+Text here
 
 ## How We Use Information
 
-...
+Text here
 
 ## Contact
 
-</div>
-</section>
-...
+Text here 
 
