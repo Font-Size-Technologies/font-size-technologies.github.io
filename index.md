@@ -11,14 +11,13 @@ title: Home
       <h1>We build things people love.</h1>
 
       <p class="hero-text">
-        A short description of what your company does.
-        Keep this concise and focused.
+         Building software applications via human-centered design.
       </p>
 
-      <a class="button" href="#about">Learn more</a>
+      <!-- <a class="button" href="#about">Learn more</a> -->
     </div>
 
-    <img src="/images/hero.jpg" alt="Description of your image">
+    <!-- <img src="/images/hero.jpg" alt="Description of your image"> -->
   </div>
 </section>
 
