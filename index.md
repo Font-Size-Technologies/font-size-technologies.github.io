@@ -6,7 +6,7 @@ title: Home
 <section class="hero">
   <div class="container">
     <div class="hero-content">
-      <p class="eyebrow">Your Company</p>
+      <!-- <p class="eyebrow">Your Company</p> -->
 
       <h1>We build things people love.</h1>
 
